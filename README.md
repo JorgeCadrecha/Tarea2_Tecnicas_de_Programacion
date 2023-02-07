@@ -113,7 +113,8 @@ A continuación, se muestra un ejemplo de posibles visualizaciones y entradas du
    Introduzca la distancia recorrida (km).
    
    **370**
-   Introduzca el tiempo del recorrido (min).
+  
+  Introduzca el tiempo del recorrido (min).
    
    **240**
    
