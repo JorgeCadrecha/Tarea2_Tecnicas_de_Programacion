@@ -54,9 +54,11 @@ Mi repositorio es: https://github.com/JorgeCadrecha/Tarea2_Tecnicas_de_Programac
 
 4. Velocidad media
 * Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
-
+ 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
-    Introduzca la distancia recorrida (km).
+
+   
+   Introduzca la distancia recorrida (km).
     **370**
     Introduzca el tiempo del recorrido (min).
     **240**
