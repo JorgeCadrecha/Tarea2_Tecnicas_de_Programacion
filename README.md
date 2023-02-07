@@ -59,7 +59,10 @@ A continuación, se muestra un ejemplo de posibles visualizaciones y entradas du
 
    
    Introduzca la distancia recorrida (km).
-    **370**
-    Introduzca el tiempo del recorrido (min).
-    **240**
-    Se ha desplazado a una velocidad de 92,5 km/h.
+   
+   **370**
+   Introduzca el tiempo del recorrido (min).
+   
+   **240**
+   
+   Se ha desplazado a una velocidad de 92,5 km/h.
