@@ -21,43 +21,44 @@ Mi repositorio es:
   
 2. ¿Qué se muestra?
  * ¿Qué veremos al ejecutar el siguiente algoritmo?
- * 
-Variable valor1, valor2: entero  
-Variable cadena1: texto  
-Constante CST: real <- 49,78  
-Inicio  
-   valor1 <- 92 % 8  
-   valor2 <- 2 * valor1  
-   cadena1 <- "Test"  
-   escribir(cadena1 & " , valor2 = " & valor2)  
-   escribir(valor1 & " # " & CST)  
-Fin 
+ 
+    Variable valor1, valor2: entero  
+    Variable cadena1: texto  
+    Constante CST: real <- 49,78  
+    Inicio  
+      valor1 <- 92 % 8  
+      valor2 <- 2 * valor1  
+      cadena1 <- "Test"  
+      escribir(cadena1 & " , valor2 = " & valor2)  
+      escribir(valor1 & " # " & CST)  
+    Fin 
 
 3. ¿Qué hace?
 * ¿Qué hace este algoritmo?
 
-Algo QueHace   
-Variable valor1, valor2: real  
-Inicio  
-   valor1 <- enter("Introduza un valor: ")  
-   valor2 <- enter("Introduza otro valor: ")  
-   //# tratamiento 
-   valor1 <- valor2  
-   valor2 <- valor1  
-   escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
-Fin 
+    Algo QueHace   
+    Variable valor1, valor2: real  
+    Inicio  
+      valor1 <- enter("Introduza un valor: ")  
+      valor2 <- enter("Introduza otro valor: ")  
+      //# tratamiento 
+      
+      valor1 <- valor2  
+      valor2 <- valor1  
+      escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
+    Fin 
 
 4. Velocidad media
 * Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
 
-Introduzca la distancia recorrida (km).
+    Introduzca la distancia recorrida (km).
 
-370
+    **370**
 
-Introduzca el tiempo del recorrido (min).
+    Introduzca el tiempo del recorrido (min).
 
-240
+    **240**
 
-Se ha desplazado a una velocidad de 92,5 km/h.
+    Se ha desplazado a una velocidad de 92,5 km/h.
