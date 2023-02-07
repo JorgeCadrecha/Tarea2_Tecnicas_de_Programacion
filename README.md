@@ -3,6 +3,7 @@ Tarea 2 2023
 
 ## Nota:
 Mi repositorio es: https://github.com/JorgeCadrecha/Tarea2_Tecnicas_de_Programacion.git
+
 **Las soluciones estan en cada archivo del ejercicio correspondiente, esta el codigo en Java como comentado para su mejor entendimiento**
 
 ## Enunciado
