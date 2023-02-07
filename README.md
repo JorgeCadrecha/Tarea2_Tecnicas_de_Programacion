@@ -41,7 +41,7 @@ Variable valor1, valor2: real
 Inicio  
    valor1 <- enter("Introduza un valor: ")  
    valor2 <- enter("Introduza otro valor: ")  
-   # tratamiento 
+   //# tratamiento 
    valor1 <- valor2  
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
