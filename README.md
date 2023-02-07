@@ -34,6 +34,7 @@ Mi repositorio es: https://github.com/JorgeCadrecha/Tarea2_Tecnicas_de_Programac
       cadena1 <- "Test"  
       escribir(cadena1 & " , valor2 = " & valor2)  
       escribir(valor1 & " # " & CST)
+      
     Fin 
 
 3. ¿Qué hace?
@@ -47,7 +48,8 @@ Mi repositorio es: https://github.com/JorgeCadrecha/Tarea2_Tecnicas_de_Programac
       //# tratamiento
       valor1 <- valor2  
       valor2 <- valor1  
-      escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
+      escribir("valor1 = " & valor1 & "; valor2 = " & valor2)
+      
     Fin 
 
 4. Velocidad media
