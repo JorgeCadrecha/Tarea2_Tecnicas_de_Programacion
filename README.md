@@ -46,6 +46,7 @@ Inicio
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
+
 4. Velocidad media
 * Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
