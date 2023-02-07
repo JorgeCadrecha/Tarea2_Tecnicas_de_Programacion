@@ -19,8 +19,8 @@ Mi repositorio es:
     escribir("a = " & a & " y b = " & b)  
   Fin 
   
-  2. ¿Qué se muestra?
-¿Qué veremos al ejecutar el siguiente algoritmo?
+ 2. ¿Qué se muestra?
+ * ¿Qué veremos al ejecutar el siguiente algoritmo?
 
 Algo QueVeremos 
 # ¿Qué veremos al ejecutar el siguiente algoritmo?  
@@ -36,7 +36,7 @@ Inicio
 Fin 
 
 3. ¿Qué hace?
-¿Qué hace este algoritmo?
+* ¿Qué hace este algoritmo?
 
 Algo QueHace  
 # ¿Qué hace este algoritmo?  
@@ -50,7 +50,7 @@ Inicio
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
 4. Velocidad media
-Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
+* Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
 
