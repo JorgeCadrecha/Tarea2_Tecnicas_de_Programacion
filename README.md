@@ -84,7 +84,6 @@ Mi repositorio es: https://github.com/JorgeCadrecha/Tarea2_Tecnicas_de_Programac
     Fin 
     
       import java.util.Scanner;
-
       public class ejercicio3 {
           public static void main(String[] args) {
               double valor1,valor2;
@@ -120,8 +119,7 @@ A continuación, se muestra un ejemplo de posibles visualizaciones y entradas du
    
    Se ha desplazado a una velocidad de 92,5 km/h.
    
-   import java.util.Scanner;
-
+    import java.util.Scanner;
     public class ejercicio4 {
         public static void main(String[] args) {
             Scanner teclado = new Scanner(System.in);
@@ -134,8 +132,7 @@ A continuación, se muestra un ejemplo de posibles visualizaciones y entradas du
             valor2 = teclado.nextDouble();
             //Introducimos el valor  240.0
             valor3 = valor1 / (valor2 / 60);
-            System.out.println("Se ha desplazado a una velocidad de: " + valor3 + " Km/h");
-            //Se imprime el valor de valor3 que es la velocidad en Km/h ->
-             //Se ha desplazado a     una velocidad de: 92.5 Km/h
+            System.out.println("Se ha desplazado a una velocidad de: " + valor3 + " Km/h"); 
+            //Se imprime el valor de valor3 que es la velocidad en Km/h -> Se ha desplazado a una velocidad de: 92.5 Km/h
         }
     }
